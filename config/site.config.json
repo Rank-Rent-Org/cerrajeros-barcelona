@@ -1,193 +1,171 @@
 {
   "negocio": {
-    "nombre": "Pintores Valencia",
-    "nombre_corto": "PintoresVLC",
-    "nicho": "pintores",
-    "nicho_singular": "pintor",
-    "ciudad_principal": "Valencia",
-    "provincia": "Valencia",
+    "nombre": "Cerrajeros Barcelona 24h Urgentes",
+    "dominio": "https://www.cerrajerosbarcelonaurgentes24h.es",
+    "telefono": "+34930000000",
+    "telefono_display": "+34 930 00 00 00",
+    "whatsapp": "34600000000",
+    "whatsapp_mensaje": "Hola, necesito un cerrajero urgente en Barcelona",
+    "email": "contacto@cerrajerosbarcelonaurgentes24h.es",
+    "ciudad_principal": "Barcelona",
+    "provincia": "Barcelona",
     "pais": "ES",
-    "telefono": "+34 960 000 000",
-    "telefono_display": "960 000 000",
-    "whatsapp": "34960000000",
-    "whatsapp_mensaje": "Hola, me gustaría solicitar un presupuesto de pintura.",
-    "email": "contacto@pintores-valencia.com",
-    "dominio": "https://pintores-valencia.com",
+    "nicho_singular": "cerrajero",
+    "servicios_realizados": 2450,
+    "anos_experiencia": "12",
+    "tiempo_respuesta": "20 minutos",
+    "horario": {
+      "semana": {
+        "abre": "00:00",
+        "cierra": "23:59"
+      },
+      "sabado": {
+        "abre": "00:00",
+        "cierra": "23:59"
+      }
+    },
     "direccion": {
-      "calle": null,
-      "cp": "46001",
-      "ciudad": "Valencia",
-      "provincia": "Valencia",
-      "pais": "España"
+      "cp": "08001"
     },
     "coordenadas": {
-      "lat": 39.4699,
-      "lon": -0.3763
-    },
-    "horario": {
-      "semana": { "abre": "08:00", "cierra": "19:00" },
-      "sabado": { "abre": "09:00", "cierra": "14:00" },
-      "domingo": null
-    },
-    "tiempo_respuesta": "menos de 1 hora",
-    "anos_experiencia": 8,
-    "servicios_realizados": 650
+      "lat": 41.3851,
+      "lon": 2.1734
+    }
   },
-
-  "diseno": {
-    "color_fondo": "#FFFFFF",
-    "color_superficie": "#F7F5F2",
-    "color_borde": "#E8E4DF",
-    "color_texto": "#1A1A1A",
-    "color_texto_suave": "#6B6B6B",
-    "color_acento": "#C8102E",
-    "color_acento_hover": "#A50D26",
-    "fuente_principal": "Inter",
-    "logo_url": "/img/logo.svg"
-  },
-
   "seo": {
     "home": {
-      "title": "Pintores en Valencia – Presupuesto Gratis en 24h | Pintores Valencia",
-      "h1": "Pintores en Valencia con presupuesto gratis en 24 horas",
-      "meta_desc": "Pintores profesionales en Valencia. Pisos, locales y comunidades. Presupuesto gratuito en 24h, sin desplazamiento. Más de 650 trabajos realizados. ☎ 960 000 000",
-      "keywords": ["pintores valencia", "pintor valencia", "pintar piso valencia", "empresa pintura valencia"]
+      "title": "Cerrajeros Barcelona 24 Horas | Urgentes y Baratos",
+      "meta_desc": "Cerrajeros en Barcelona 24 horas. Apertura de puertas, cambio de cerraduras y urgencias. Llegamos en 20 minutos. ¡Llama ahora!",
+      "h1": "Cerrajeros en Barcelona 24 Horas y Urgentes"
     }
   },
-
-  "servicios": [
-    {
-      "slug": "pintura-interior",
-      "nombre": "Pintura Interior",
-      "descripcion_corta": "Pisos, oficinas y locales comerciales con acabados de primera calidad.",
-      "descripcion": "Transformamos cualquier espacio interior con pintura de alta durabilidad. Trabajamos con plástica lisa, satinada y acabados decorativos en viviendas, oficinas y locales de Valencia.",
-      "icono": "interior",
-      "seo": {
-        "title": "Pintura Interior en Valencia – Pisos y Locales | Pintores Valencia",
-        "h1": "Pintura interior en Valencia para pisos, locales y oficinas",
-        "meta_desc": "Pintores especializados en interiores en Valencia. Acabados en plástico liso, satinado y decorativo. Presupuesto sin compromiso en 24h. ☎ 960 000 000"
-      }
-    },
-    {
-      "slug": "pintura-exterior",
-      "nombre": "Pintura Exterior",
-      "descripcion_corta": "Fachadas y comunidades de propietarios en toda la provincia.",
-      "descripcion": "Expertos en pintura de fachadas, comunidades de propietarios y naves industriales. Usamos pinturas de alto rendimiento resistentes al clima mediterráneo de Valencia.",
-      "icono": "exterior",
-      "seo": {
-        "title": "Pintura Exterior en Valencia – Fachadas y Comunidades | Pintores Valencia",
-        "h1": "Pintura exterior en Valencia: fachadas y comunidades de vecinos",
-        "meta_desc": "Pintamos fachadas y comunidades en Valencia con garantía. Pinturas resistentes al sol y la humedad. Presupuesto gratuito para tu comunidad. ☎ 960 000 000"
-      }
-    },
-    {
-      "slug": "pintura-comunidades",
-      "nombre": "Comunidades de Propietarios",
-      "descripcion_corta": "Zonas comunes, escaleras y garajes para comunidades de toda Valencia.",
-      "descripcion": "Servicio especializado para administradores de fincas y presidentes de comunidades. Gestión completa del proyecto, desde el presupuesto hasta la limpieza final.",
-      "icono": "comunidades",
-      "seo": {
-        "title": "Pintura Comunidades Valencia – Escaleras y Zonas Comunes | Pintores Valencia",
-        "h1": "Pintura para comunidades de propietarios en Valencia",
-        "meta_desc": "Pintamos escaleras, garajes y zonas comunes en comunidades de Valencia. Presupuestos para administradores de fincas. Sin molestias para los vecinos. ☎ 960 000 000"
-      }
-    }
-  ],
-
-  "ciudades": [
-    {
-      "slug": "valencia",
-      "nombre": "Valencia",
-      "provincia": "Valencia",
-      "lat": 39.4699,
-      "lon": -0.3763,
-      "descripcion_local": "Cubrimos todos los barrios de Valencia: Ruzafa, L'Eixample, Benimaclet, Campanar, Patraix, Jesús y el centro histórico.",
-      "barrios_destacados": ["Ruzafa", "L'Eixample", "Benimaclet", "Campanar", "Patraix"],
-      "cp_principales": ["46001", "46002", "46003", "46004", "46005", "46006", "46007", "46008", "46009", "46010"]
-    },
-    {
-      "slug": "paterna",
-      "nombre": "Paterna",
-      "provincia": "Valencia",
-      "lat": 39.5023,
-      "lon": -0.4411,
-      "descripcion_local": "Servicio de pintura en Paterna, La Canyada, Lloma Llarga y El Molí. Zona industrial y residencial.",
-      "barrios_destacados": ["La Canyada", "Lloma Llarga", "El Molí", "Fuente del Jarro"],
-      "cp_principales": ["46980"]
-    },
-    {
-      "slug": "torrent",
-      "nombre": "Torrent",
-      "provincia": "Valencia",
-      "lat": 39.4335,
-      "lon": -0.4669,
-      "descripcion_local": "Pintores en Torrent para viviendas unifamiliares, bloques de pisos y comunidades en toda la ciudad.",
-      "barrios_destacados": ["Centro", "L'Alter", "La Bèrnia", "El Vedat"],
-      "cp_principales": ["46900"]
-    }
-  ],
-
-  "faqs": [
-    {
-      "pregunta": "¿Cuánto cuesta pintar un piso en Valencia?",
-      "respuesta": "El precio de pintar un piso en Valencia depende de los metros cuadrados y el estado de las paredes. Como referencia, un piso de 90m² con dos manos de pintura plástica cuesta entre 700 y 1.200€, incluyendo materiales. Solicita tu presupuesto gratuito y te damos un precio exacto en 24 horas."
-    },
-    {
-      "pregunta": "¿Ofrecéis presupuesto gratuito?",
-      "respuesta": "Sí, el presupuesto es completamente gratuito y sin ningún compromiso. Nos contactas por teléfono o formulario, acordamos una visita y te entregamos el presupuesto detallado en menos de 24 horas."
-    },
-    {
-      "pregunta": "¿Cuánto tarda en secarse la pintura?",
-      "respuesta": "La pintura plástica estándar seca al tacto en 1-2 horas y está completamente seca a las 24 horas. Las pinturas especiales o esmaltes pueden requerir 48-72 horas. Durante el proceso protegemos todos los muebles y suelos con material de protección."
-    },
-    {
-      "pregunta": "¿Trabajáis en comunidades de propietarios?",
-      "respuesta": "Sí, somos especialistas en comunidades de propietarios. Trabajamos habitualmente con administradores de fincas en Valencia. Facilitamos toda la documentación necesaria para la junta y coordinamos el trabajo para minimizar las molestias a los vecinos."
-    },
-    {
-      "pregunta": "¿Incluís los materiales en el presupuesto?",
-      "respuesta": "El presupuesto incluye materiales, mano de obra y limpieza final. Usamos marcas de primera calidad como Bruguer, Valentine o Pinturas Montó. No hay costes ocultos: el precio acordado es el precio final."
-    }
-  ],
-
-  "testimonios": [
-    {
-      "nombre": "María López",
-      "ciudad": "Valencia",
-      "barrio": "Ruzafa",
-      "texto": "Pintaron todo el piso en dos días, muy limpios y puntuales. El acabado es perfecto. Repetiré sin duda.",
-      "estrellas": 5,
-      "servicio": "Pintura interior"
-    },
-    {
-      "nombre": "Carlos Martínez",
-      "ciudad": "Paterna",
-      "barrio": "La Canyada",
-      "texto": "Presupuesto en 24 horas como prometieron. Trabajo impecable en la fachada de la comunidad. El precio fue el acordado, sin sorpresas.",
-      "estrellas": 5,
-      "servicio": "Pintura exterior"
-    },
-    {
-      "nombre": "Ana Fernández",
-      "ciudad": "Torrent",
-      "barrio": "Centro",
-      "texto": "Muy profesionales. Explicaron bien qué tipo de pintura era mejor para nuestro caso y el resultado superó las expectativas.",
-      "estrellas": 5,
-      "servicio": "Pintura interior"
-    }
-  ],
-
-  "garantias": [
-    "Presupuesto gratuito en menos de 24 horas",
-    "Precio cerrado: sin costes ocultos",
-    "Materiales de primera calidad incluidos",
-    "Limpieza completa al finalizar",
-    "Garantía de 2 años en mano de obra"
-  ],
-
   "schema": {
-    "type": "HousePainter",
+    "type": "Locksmith",
     "price_range": "€€",
     "same_as": []
-  }
+  },
+  "diseno": {
+    "logo_url": "/logo.svg",
+    "color_primario": "#1e293b",
+    "color_acento": "#e11d48",
+    "color_fondo": "#ffffff",
+    "color_superficie": "#f8fafc",
+    "color_borde": "#e2e8f0",
+    "color_texto": "#0f172a",
+    "color_texto_suave": "#64748b",
+    "color_acento_hover": "#be123c"
+  },
+  "servicios": [
+    {
+      "slug": "apertura-de-puertas",
+      "nombre": "Apertura de Puertas",
+      "descripcion": "Servicio profesional de apertura de puertas en Barcelona y alrededores sin romper ni dañar la cerradura. Disponibles 24 horas para puertas acorazadas, blindadas y de madera.",
+      "descripcion_corta": "Abrimos todo tipo de puertas sin daños y al mejor precio.",
+      "seo": {
+        "title": "Apertura de Puertas en Barcelona | Sin Daños 24h",
+        "meta_desc": "Necesitas abrir tu puerta en Barcelona? Cerrajeros urgentes expertos en apertura sin romper. Llama y acudimos en 20 minutos.",
+        "h1": "Apertura de Puertas Urgente en Barcelona"
+      }
+    },
+    {
+      "slug": "cambio-de-cerraduras",
+      "nombre": "Cambio de Cerraduras y Bombines",
+      "descripcion": "Mejora la seguridad de tu hogar o negocio con nuestro servicio de cambio de cerraduras y bombines antibumping en Barcelona. Trabajamos con las mejores marcas del mercado.",
+      "descripcion_corta": "Instalación y cambio de cerraduras y bombines de alta seguridad.",
+      "seo": {
+        "title": "Cambio de Cerraduras en Barcelona | Alta Seguridad",
+        "meta_desc": "Cambio de cerraduras y bombines antibumping en Barcelona. Presupuesto sin compromiso y servicio inmediato.",
+        "h1": "Cambio de Cerraduras en Barcelona"
+      }
+    },
+    {
+      "slug": "cerrajero-urgente-24-horas",
+      "nombre": "Cerrajero Urgente 24 Horas",
+      "descripcion": "Servicio de cerrajería urgente 24 horas en Barcelona capital y área metropolitana. Atendemos incidencias nocturnas, fines de semana y festivos con máxima rapidez.",
+      "descripcion_corta": "Cerrajeros de guardia 24/7 para cualquier urgencia en Barcelona.",
+      "seo": {
+        "title": "Cerrajero Urgente 24 Horas en Barcelona | 365 Días",
+        "meta_desc": "Cerrajero urgente 24 horas en Barcelona. Llegada en menos de 20 minutos para aperturas y emergencias. ¡Llama ya!",
+        "h1": "Cerrajero Urgente 24 Horas en Barcelona"
+      }
+    }
+  ],
+  "ciudades": [
+    {
+      "slug": "barcelona",
+      "nombre": "Barcelona",
+      "provincia": "Barcelona",
+      "descripcion_local": "Ofrecemos servicios de cerrajería integral en todos los barrios de Barcelona capital con técnicos locales desplazados estratégicamente.",
+      "barrios_destacados": [
+        "Eixample",
+        "Gràcia",
+        "Poblenou",
+        "Les Corts",
+        "Sants",
+        "Ciutat Vella"
+      ]
+    },
+    {
+      "slug": "l-hospitalet-de-llobregat",
+      "nombre": "L'Hospitalet de Llobregat",
+      "provincia": "Barcelona",
+      "descripcion_local": "Servicio rápido de cerrajeros en L'Hospitalet de Llobregat. Cobertura inmediata en Santa Eulàlia, Bellvitge y Centro.",
+      "barrios_destacados": [
+        "Santa Eulàlia",
+        "Bellvitge",
+        "Centre",
+        "Torrassa"
+      ]
+    },
+    {
+      "slug": "cornella-de-llobregat",
+      "nombre": "Cornellà de Llobregat",
+      "provincia": "Barcelona",
+      "descripcion_local": "Cerrajeros profesionales y económicos en Cornellà de Llobregat con atención 24 horas para urgencias y aperturas.",
+      "barrios_destacados": [
+        "Riera",
+        "Almeda",
+        "Centre",
+        "Sant Ildefons"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cuánto tardáis en llegar en caso de urgencia en Barcelona?",
+      "respuesta": "Nuestro tiempo medio de respuesta en Barcelona y área metropolitana es de 20 minutos gracias a nuestros equipos móviles distribuidos por toda la ciudad."
+    },
+    {
+      "pregunta": "¿Abrís las puertas sin causar desperfectos?",
+      "respuesta": "Sí, en la gran mayoría de los casos realizamos la apertura de la puerta sin romper la cerradura ni dañar la madera o estructura metálica."
+    },
+    {
+      "pregunta": "¿Estáis disponibles en festivos y por la noche?",
+      "respuesta": "Sí, ofrecemos servicio de cerrajería 24 horas los 365 días del año, incluyendo fines de semana y días festivos."
+    }
+  ],
+  "testimonios": [
+    {
+      "texto": "Me dejé las llaves dentro de casa un domingo por la noche y llegaron en menos de 20 minutos. Súper rápidos, profesionales y sin romper nada. Totalmente recomendables.",
+      "estrellas": 5,
+      "nombre": "Carlos Martí",
+      "barrio": "Eixample",
+      "ciudad": "Barcelona",
+      "servicio": "Apertura de Puertas"
+    },
+    {
+      "texto": "Excelente servicio. Llamé para un cambio de bombín urgente en L'Hospitalet y el trato fue impecable y muy transparente con el precio.",
+      "estrellas": 5,
+      "nombre": "Laura Giménez",
+      "barrio": "Santa Eulàlia",
+      "ciudad": "L'Hospitalet de Llobregat",
+      "servicio": "Cambio de Cerraduras y Bombines"
+    }
+  ],
+  "garantias": [
+    "Servicio 24 horas 365 días",
+    "Presupuesto previo sin compromiso",
+    "Técnicos cerrajeros certificados",
+    "Garantía por escrito en todas las reparaciones"
+  ]
 }
